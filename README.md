@@ -39,7 +39,7 @@ Ask me about getting started with programming and building projects from scratch
 
 ## ✦ Outside data
 
-I enjoy gaming across AAA titles, CS2, Valorant, League of Legends, and a library of 500+ games. I also love traveling, support Manchester United, and cheer for Ferrari in Formula 1.
+I enjoy gaming across AAA titles, CS2, Valorant, League of Legends, and a library of 500+ games. I also love traveling and skiing, and I am a multi-year Epic/Ikon Pass holder. I support Manchester United and cheer for Ferrari in Formula 1.
 
 ---
 
