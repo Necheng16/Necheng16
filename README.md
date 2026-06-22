@@ -69,7 +69,7 @@ I enjoy gaming across AAA titles, CS2, Valorant, League of Legends, and a librar
 <br />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Necheng16&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=D4AF37&text_color=E8D8B0&icon_color=F6C453" alt="Necheng16 GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necheng16&layout=donut&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E8D8B0" alt="Necheng16 most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necheng16&layout=donut&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E8D8B0&v=2" alt="Necheng16 most used languages" />
 
 <br />
 <br />
