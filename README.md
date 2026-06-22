@@ -1,11 +1,19 @@
 <div align="center">
 
-# Hi, I'm Necheng16 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=B8860B" alt="gold divider" />
 
-### I build, learn, and ship small things that make life easier.
+# Baichuan (Benjamin) Duan
 
-![Profile views](https://komarev.com/ghpvc/?username=Necheng16&style=for-the-badge&color=0ea5e9)
-![GitHub followers](https://img.shields.io/github/followers/Necheng16?style=for-the-badge&logo=github&color=22c55e)
+<p>
+  <b>Necheng</b> is my nickname.
+</p>
+
+<p>
+  <b>Research interests:</b> LLMs · Machine Learning · Data Science · Biostatistics · Statistics
+</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=Necheng16&style=for-the-badge&color=B8860B)
+![GitHub followers](https://img.shields.io/github/followers/Necheng16?style=for-the-badge&logo=github&logoColor=F8E7B9&color=111827&labelColor=B8860B)
 
 </div>
 
@@ -13,11 +21,31 @@
 
 ### About me
 
-- 🔭 Currently working on personal projects and course projects
-- 🌱 Currently learning software engineering, web development, and AI-assisted coding
-- 🧠 Interested in clean code, practical tools, and turning ideas into working products
+I studied Business Information Systems and Data Science as a double major at the University of Rochester, with a minor in Computer Science, and continued into an M.S. in Biostatistics Data Science at Yale University.
+
+- 🧠 Research interests: LLMs, machine learning, data science, biostatistics, and statistics
 - 💬 Ask me about getting started with programming and building projects from scratch
-- ⚡ Tiny motto: keep building, keep improving
+- 🧭 Mission: use data to change the world
+
+---
+
+### Focus areas
+
+<div align="center">
+
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=F8E7B9&labelColor=B8860B)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=F8E7B9&labelColor=B8860B)
+![Data Science](https://img.shields.io/badge/Data_Science-111827?style=for-the-badge&logo=python&logoColor=F8E7B9&labelColor=B8860B)
+![Biostatistics](https://img.shields.io/badge/Biostatistics-111827?style=for-the-badge&logo=r&logoColor=F8E7B9&labelColor=B8860B)
+![Statistics](https://img.shields.io/badge/Statistics-111827?style=for-the-badge&logo=latex&logoColor=F8E7B9&labelColor=B8860B)
+
+</div>
+
+---
+
+### Beyond data
+
+Outside of data, I enjoy gaming across AAA titles, CS2, Valorant, League of Legends, and a library of 500+ games. I also love traveling, support Manchester United, and cheer for Ferrari in Formula 1.
 
 ---
 
@@ -25,13 +53,13 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=60a5fa)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=facc15)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=f97316)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38bdf8)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f97316)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=60a5fa)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=F8E7B9&labelColor=1F2937)
+![R](https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r&logoColor=F8E7B9&labelColor=1F2937)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F8E7B9&labelColor=1F2937)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F8E7B9&labelColor=1F2937)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=F8E7B9&labelColor=1F2937)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F8E7B9&labelColor=1F2937)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8E7B9&labelColor=1F2937)
 
 </div>
 
@@ -41,29 +69,21 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Necheng16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Necheng16 GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Necheng16&theme=tokyonight&hide_border=true" alt="Necheng16 GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Necheng16&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=D4AF37&text_color=E8D8B0&icon_color=F6C453" alt="Necheng16 GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Necheng16&hide_border=true&background=0D1117&ring=D4AF37&fire=F59E0B&currStreakLabel=F8E7B9&sideNums=D4AF37&currStreakNum=D4AF37&sideLabels=E8D8B0&dates=9CA3AF" alt="Necheng16 GitHub streak" />
 
 <br />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necheng16&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necheng16&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E8D8B0" alt="Most used languages" />
 
 </div>
 
 ---
 
-### Current focus
-
-```text
-Build useful projects     ████████████████░░░░
-Improve coding skills     ███████████████░░░░░
-Learn by shipping         █████████████████░░░
-```
-
----
-
 <div align="center">
 
-_Thanks for visiting. See you in the commits._
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=B8860B" alt="gold divider" />
+
+_Use data to change the world._
 
 </div>
