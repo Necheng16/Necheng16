@@ -48,12 +48,12 @@ I enjoy gaming across AAA titles, CS2, Valorant, League of Legends, and a librar
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=F8E7B9&labelColor=B8860B)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F8E7B9&labelColor=B8860B)
 ![R](https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r&logoColor=F8E7B9&labelColor=B8860B)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F8E7B9&labelColor=B8860B)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F8E7B9&labelColor=B8860B)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=F8E7B9&labelColor=B8860B)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F8E7B9&labelColor=B8860B)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8E7B9&labelColor=B8860B)
+![Stata](https://img.shields.io/badge/Stata-111827?style=for-the-badge&logoColor=F8E7B9&labelColor=B8860B)
+![Swift](https://img.shields.io/badge/Swift-111827?style=for-the-badge&logo=swift&logoColor=F8E7B9&labelColor=B8860B)
+![HTML](https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=F8E7B9&labelColor=B8860B)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logoColor=F8E7B9&labelColor=B8860B)
 
 </div>
 
