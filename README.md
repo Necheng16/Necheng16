@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Necheng16 👋
+# Hi, I'm Baichuan (Benjamin) Duan👋
 
 ### I build, learn, and ship small things that make life easier.
 
